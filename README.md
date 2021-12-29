@@ -28,7 +28,7 @@ Group Memebers
 
 <img src="https://user-images.githubusercontent.com/43722260/147650560-7bf36a00-ee88-4098-9339-c357924e6e56.png" width="1000">
 
-### Student Fee
+### Student Fees
 
 <img src="https://user-images.githubusercontent.com/43722260/147650674-128498b4-7b2e-4c77-aa4f-73b93998d675.png" width="1000">
 
